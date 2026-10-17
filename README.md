@@ -1,9 +1,9 @@
 # Login App - Javier Doria
 
-Aplicación de formulario de inicio de sesión con validación.
+Aplicación de formulario de inicio de sesión con validación de campos.
 
 ## Estrategia de Ramas
-Utilizamos **GitHub Flow**:
-- Una rama principal `main` siempre estable.
-- Ramas cortas de tipo `feature/` para el desarrollo de funcionalidades.
-- Integración mediante Pull Requests con revisión de código y CI automatizado.
+Para este proyecto utilizamos **GitHub Flow**:
+- Una rama principal `main` siempre estable y lista para producción.
+- Ramas de características (`feature/*`) para desarrollar funcionalidades de forma aislada.
+- Integración mediante **Pull Requests** previa revisión e integración continua (CI).
